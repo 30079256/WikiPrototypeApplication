@@ -1,0 +1,10 @@
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\bin\Debug\WikiPrototypeApplication.exe.config
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\bin\Debug\WikiPrototypeApplication.exe
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\bin\Debug\WikiPrototypeApplication.pdb
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.csproj.AssemblyReference.cache
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.FormWikiPrototype.resources
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.Properties.Resources.resources
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.csproj.GenerateResource.cache
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.csproj.CoreCompileInputs.cache
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.exe
+C:\Users\GAZ2\source\repos\WikiPrototypeApplication\WikiPrototypeApplication\obj\Debug\WikiPrototypeApplication.pdb
