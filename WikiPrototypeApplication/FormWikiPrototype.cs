@@ -77,6 +77,7 @@ namespace WikiPrototypeApplication
                 currentRecord++;
                 SortDataStructures();
                 Clear();
+                TextBoxName.Focus();
             }
             else
             {
@@ -110,7 +111,8 @@ namespace WikiPrototypeApplication
                 dataStructures[selectedItem, 2] = TextBoxStructure.Text;
                 dataStructures[selectedItem, 3] = TextBoxDefinition.Text;
                 SortDataStructures();
-                Clear();               
+                Clear();
+                TextBoxName.Focus();
             }
             else ToolStripStatusLabelFeedback.Text = "Error: No record selected";
         }
@@ -142,6 +144,7 @@ namespace WikiPrototypeApplication
                     currentRecord--;
                     SortDataStructures();
                     Clear();
+                    TextBoxName.Focus();
                 }
             }
             else ToolStripStatusLabelFeedback.Text = "Error: No record selected";
@@ -155,13 +158,13 @@ namespace WikiPrototypeApplication
             TextBoxName.Clear();
             TextBoxCategory.Clear();
             TextBoxStructure.Clear();
-            TextBoxDefinition.Clear();
-            TextBoxName.Focus();
+            TextBoxDefinition.Clear();            
         }
 
         private void TextBoxName_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             Clear();
+            TextBoxName.Focus();
         }
         #endregion
         // 9.6. Write the code for a Bubble Sort method to sort the 2D array by Name ascending,
@@ -259,6 +262,10 @@ namespace WikiPrototypeApplication
             {
                 ToolStripStatusLabelFeedback.Text = "Error: Empty textbox";
             }
+        }
+        private void TextBoxSearch_Click(object sender, EventArgs e)
+        {
+            Clear();
         }
         #endregion
         // 9.8. Create a display method that will show the following information in a ListView: Name and Category
